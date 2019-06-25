@@ -6,60 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="9063c109-e368-440a-9b1b-59385c0712ad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n1/FlowerBed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n1/NameAdress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n1/PhoneCalls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n2/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n3/Breed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n3/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n3/HTTPError.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n3/Http$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n3/Http.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n3/Numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n4/t1/Bird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n4/t1/Chicken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n4/t1/Eagle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n4/t1/FlyingBird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n4/t1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n4/t1/NonFlyingBird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n4/t1/Penguin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n4/t1/Swallow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n4/t2/ContractEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n4/t2/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n4/t2/PayInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n4/t2/SalariedEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n5/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n5/FiveNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n5/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n5/Month.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/n5/Numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/p3/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n1/FlowerBed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw1/FlowerBed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n1/NameAdress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw1/NameAdress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n1/PhoneCalls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw1/PhoneCalls.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw2/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n3/Breed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw3/Breed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n3/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw3/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n3/HTTPError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw3/HTTPError.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n3/Http.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw3/Http.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n3/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw3/Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n4/t1/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw4/t1/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n4/t1/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw4/t1/Chicken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n4/t1/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw4/t1/Eagle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n4/t1/FlyingBird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw4/t1/FlyingBird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n4/t1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw4/t1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n4/t1/NonFlyingBird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw4/t1/NonFlyingBird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n4/t1/Penguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw4/t1/Penguin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n4/t1/Swallow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw4/t1/Swallow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n4/t2/ContractEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw4/t2/ContractEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n4/t2/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw4/t2/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n4/t2/PayInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw4/t2/PayInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n4/t2/SalariedEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw4/t2/SalariedEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n5/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw5/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n5/FiveNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw5/FiveNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n5/Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw5/Month.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/n5/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw5/Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SET.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SET.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/NumbersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/hw1/NameAdress.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/hw1/NameAdress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/hw6/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/hw6/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/hw7/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/hw7/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/p6/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/p6/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/p8/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/p8/ColorException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/p8/Plants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/p8/Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SET/com/softserve/homework/p8/TypeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/hw6/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/hw6/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/homework/p6/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/homework/p6/Task1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,20 +31,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/hw7/Task1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -102,8 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/softserve/homework/n3/Numbers.java" />
-        <option value="$PROJECT_DIR$/src/com/softserve/homework/n4/t2/Employee.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/homework/n4/t2/SalariedEmployee.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/homework/n4/t2/ContractEmployee.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/homework/n3/Dog.java" />
@@ -137,7 +81,6 @@
         <option value="$PROJECT_DIR$/src/com/softserve/homework/p5/Numbers.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/homework/p5/Employee.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/homework/p6/Colections.java" />
-        <option value="$PROJECT_DIR$/src/com/softserve/homework/p6/Task1.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/homework/p6/Task2.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/homework/p7/Task1.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/homework/p7/Task2.java" />
@@ -153,6 +96,9 @@
         <option value="$PROJECT_DIR$/src/com/softserve/homework/p8/Color.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/homework/hw1/NameAdress.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/homework/hw7/Task1.java" />
+        <option value="$PROJECT_DIR$/src/com/softserve/homework/hw6/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/softserve/homework/p6/Task1.java" />
+        <option value="$PROJECT_DIR$/SET.iml" />
       </list>
     </option>
   </component>
@@ -173,25 +119,18 @@
           <expand>
             <path>
               <item name="SET" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SET" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="SET" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SET" type="47feb1d3:ProjectViewModuleNode" />
               <item name="SET" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SET" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SET" type="47feb1d3:ProjectViewModuleNode" />
               <item name="SET" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SET" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SET" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SET" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SET" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="hw5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,7 +146,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Images" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -233,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Plants">
+  <component name="RunManager" selected="Application.Task1">
     <configuration name="Plants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.softserve.homework.p8.Plants" />
       <module name="SET" />
@@ -247,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.softserve.homework.p7.Task1" />
+    <configuration name="Task1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.softserve.homework.p8.Task1" />
       <module name="SET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.softserve.homework.p7.*" />
+          <option name="PATTERN" value="com.softserve.homework.p8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.softserve.homework.p8.Task1" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.softserve.homework.p6.Task1" />
       <module name="SET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.softserve.homework.p8.*" />
+          <option name="PATTERN" value="com.softserve.homework.p6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Plants" />
         <item itemvalue="Application.Task1 (2)" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -324,9 +263,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17722474" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18401207" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -335,7 +273,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32987553" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2792208" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3051948" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -385,24 +323,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/hw4/t2/SalariedEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="36" column="60" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/hw4/t2/ContractEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/hw4/t2/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="428">
@@ -622,62 +542,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/hw6/Task1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/hw6/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1409#1410#0" expanded="true" />
-            <element signature="e#1476#1477#0" expanded="true" />
-            <element signature="e#2249#2250#0" expanded="true" />
-            <element signature="e#2280#2281#0" expanded="true" />
-            <element signature="e#2341#2342#0" expanded="true" />
-            <element signature="e#2374#2375#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/hw6/Task2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/p8.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/p8/MyException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/p8/Plants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-128">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding>
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/p8/MyException.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/p8/Plants.java" />
     <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/p7/Task3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -704,58 +571,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/p6/Task1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/p6/Task2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/p8/TypeException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/p8/Type.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/p8/Color.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/p8/ColorException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-          <folding>
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/p8/TypeException.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/p8/Type.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/p8/Color.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/p8/ColorException.java" />
     <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/hw2/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
@@ -780,13 +599,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/NumbersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/NumbersTest.java" />
     <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/hw5/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -824,6 +637,68 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/hw6/Task1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/hw6/Task2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/hw6/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="43" column="52" lean-forward="true" selection-start-line="43" selection-start-column="52" selection-end-line="43" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#286#295#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/p6/Task2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/p6/Task1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/homework/calc/Calc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SET.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>

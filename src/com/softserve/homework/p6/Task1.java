@@ -19,8 +19,8 @@ public class Task1 {
         }
         System.out.println(myCollection);
         System.out.println("New Collection With Number > 5;");
-        for (Integer i : myCollection) {
-            if (myCollection.stream().allMatch(a -> i > 5)) {
+        for (int i = 0; i < myCollection.size(); i++) {
+            if (myCollection.get(i) > 5) {
                 newCollection.add(i);
             }
         }

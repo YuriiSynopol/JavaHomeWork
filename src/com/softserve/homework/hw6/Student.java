@@ -38,10 +38,10 @@ public class Student {
     }
 
     public static void printStudents(List<Student> students, Integer course) {
-        ListIterator<Student> litr = students.listIterator();
+        ListIterator<Student> list = students.listIterator();
 
-        while (litr.hasNext()) {
-            Student element = (Student) litr.next();
+        while (list.hasNext()) {
+            Student element = (Student) list.next();
             if ((element.getCourse().equals(course))) {
                 students1.add(element);
             }
