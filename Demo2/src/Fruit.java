@@ -60,12 +60,16 @@ public class Fruit implements Serializable {
     }
 
     //Serialized
-    public void input(List<Fruit> fruits) throws IOException {
-        FileOutputStream fos = new FileOutputStream("fruits.xml");
-        XMLEncoder encoder = new XMLEncoder(fos);
-        encoder.writeObject(fruits);
-        encoder.close();
-        fos.close();
+    public void input(List<Fruit> fruits) {
+        try {
+            FileOutputStream fos = new FileOutputStream("fruits.xml");
+            XMLEncoder encoder = new XMLEncoder(fos);
+            encoder.writeObject(fruits);
+            encoder.close();
+            fos.close();
+        } catch (IOException e) {
+            System.out.println(e.getMessage());
+        }
     }
 
     //De - Serialized

@@ -2,25 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6afb1fa0-3b19-4733-a94e-0462a0588b25" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/FirstProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/src/main/java/Calc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/src/test/java/CalcTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/target/classes/Calc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/target/test-classes/CalcTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SET.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SET.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/SET/com/softserve/homework/p7/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/SET/com/softserve/homework/p7/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/SET/com/softserve/homework/p7/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/SET/com/softserve/homework/p7/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/SET/com/softserve/homework/p7/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/SET/com/softserve/homework/p7/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/SET/com/softserve/homework/p8/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/SET/com/softserve/homework/p8/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/com/softserve/homework/p7/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/softserve/homework/p7/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/com/softserve/homework/p7/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/softserve/homework/p7/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/com/softserve/homework/p7/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/softserve/homework/p7/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/com/softserve/homework/p8/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/softserve/homework/p8/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Citrus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Citrus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +23,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+            <state relative-caret-position="15">
+              <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FruitTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Fruit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1260">
+              <caret line="96" column="1" lean-forward="true" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SortFruit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+            <state relative-caret-position="240">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#142#143#0" expanded="true" />
@@ -61,22 +65,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Fruit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Citrus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="43" column="112" selection-start-line="43" selection-start-column="112" selection-end-line="43" selection-end-column="112" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#857#858#0" expanded="true" />
@@ -105,21 +97,15 @@
         <option value="$PROJECT_DIR$/src/MenuFruit.java" />
         <option value="$PROJECT_DIR$/fruit.txt" />
         <option value="$PROJECT_DIR$/src/Sort.java" />
-        <option value="$PROJECT_DIR$/src/Citrus.java" />
         <option value="$PROJECT_DIR$/src/SortFruit.java" />
-        <option value="$PROJECT_DIR$/src/Fruit.java" />
+        <option value="$PROJECT_DIR$/src/Citrus.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/FruitTest.java" />
+        <option value="$PROJECT_DIR$/src/Fruit.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="170" />
     <option name="y" value="91" />
     <option name="width" value="1026" />
@@ -153,7 +139,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/testng-6.14.3.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -167,17 +157,73 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="TestNG.FruitTest">
+    <configuration name="FruitTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Demo2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FruitTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FruitTest.getByColorTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Demo2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FruitTest" />
+      <option name="METHOD_NAME" value="getByColorTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FruitTest.printTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Demo2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FruitTest" />
+      <option name="METHOD_NAME" value="printTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FruitTest.serializationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Demo2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FruitTest" />
+      <option name="METHOD_NAME" value="serializationTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FruitTest.sortFruitByName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Demo2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FruitTest" />
+      <option name="METHOD_NAME" value="sortFruitByName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="TestNG.FruitTest" />
+        <item itemvalue="TestNG.FruitTest.sortFruitByName" />
+        <item itemvalue="TestNG.FruitTest.getByColorTest" />
+        <item itemvalue="TestNG.FruitTest.serializationTest" />
+        <item itemvalue="TestNG.FruitTest.printTest" />
       </list>
     </recent_temporary>
   </component>
@@ -194,11 +240,42 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="FruitTest_inputTest - 2019.07.02 at 13h 29m 28s.xml">
+      <configuration name="FruitTest.inputTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FruitTest_inputTest - 2019.07.02 at 13h 31m 22s.xml">
+      <configuration name="FruitTest.inputTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FruitTest_printTest - 2019.07.02 at 13h 42m 05s.xml">
+      <configuration name="FruitTest.printTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FruitTest_printTest - 2019.07.02 at 13h 48m 11s.xml">
+      <configuration name="FruitTest.printTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FruitTest_serializationTest - 2019.07.02 at 14h 12m 58s.xml">
+      <configuration name="FruitTest.serializationTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FruitTest_getByColorTest - 2019.07.02 at 14h 32m 03s.xml">
+      <configuration name="FruitTest.getByColorTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FruitTest_getByColorTest - 2019.07.02 at 14h 32m 24s.xml">
+      <configuration name="FruitTest.getByColorTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FruitTest_sortFruitByName - 2019.07.02 at 14h 47m 12s.xml">
+      <configuration name="FruitTest.sortFruitByName" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FruitTest_sortFruitByName - 2019.07.02 at 14h 48m 16s.xml">
+      <configuration name="FruitTest.sortFruitByName" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FruitTest - 2019.07.02 at 14h 50m 19s.xml">
+      <configuration name="FruitTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16138764" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16138764" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -207,12 +284,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32954547" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32954547" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32954547" />
@@ -267,45 +344,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fruits.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-526" />
+        <state relative-caret-position="-594" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Fruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Citrus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="43" column="112" selection-start-line="43" selection-start-column="112" selection-end-line="43" selection-end-column="112" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#857#858#0" expanded="true" />
-            <element signature="e#893#894#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/test.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SortFruit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#142#143#0" expanded="true" />
@@ -314,5 +369,106 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/FruitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Citrus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="96" column="1" lean-forward="true" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Demo2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

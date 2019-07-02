@@ -1,9 +1,8 @@
 import java.io.IOException;
-import java.util.InputMismatchException;
-import java.util.List;
+import java.io.Serializable;
 import java.util.Objects;
 
-public class Citrus extends Fruit {
+public class Citrus extends Fruit implements Serializable {
 
     private int vitaminC;
 
@@ -37,7 +36,6 @@ public class Citrus extends Fruit {
     public void print() {
         System.out.println(this);
     }
-
 
     @Override
     public String toString() {
