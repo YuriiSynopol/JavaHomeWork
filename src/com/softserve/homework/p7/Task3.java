@@ -7,12 +7,13 @@ public class Task3 {
     private String userNameString;
 
     public void setUserNameString(String userNameString) {
+
         this.userNameString = userNameString;
     }
 
     public static boolean check(String userNameString) {
 
-        Pattern p = Pattern.compile(("[a-zA-Z-_]{3,15}$"));
+        Pattern p = Pattern.compile(("[a-zA-Z-_0-9]{3,15}$"));
         Matcher m = p.matcher(userNameString);
         return m.matches();
     }
@@ -20,8 +21,14 @@ public class Task3 {
     public static void main(String[] args) {
 
         System.out.println(check("Vasya"));
+        System.out.println("Valid value");
         System.out.println(check("Va_ds"));
-        System.out.println(check("Nodsfxfg"));
+        System.out.println("Valid value");
+        System.out.println(check("Nodsfxfg93"));
+        System.out.println("Valid value");
+        System.out.println(check("Fodfg93$$"));
+        System.out.println("Not Valid value");
+
 
     }
 }

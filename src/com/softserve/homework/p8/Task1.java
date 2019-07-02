@@ -26,9 +26,9 @@ public class Task1 {
         int a = Integer.parseInt(br.readLine());
         int b = Integer.parseInt(br.readLine());
 
-        if (a <= 0) {
+        if (a < 0) {
             throw new ArithmeticException("Bad First Number!");
-        } else if (b <= 0) {
+        } else if (b < 0) {
             throw new ArithmeticException("Bad Second Number!");
         }
         System.out.println(squareRectangle(a, b));
