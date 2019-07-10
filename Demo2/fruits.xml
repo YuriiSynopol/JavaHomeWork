@@ -42,15 +42,35 @@
    </object>
   </void>
   <void method="add">
-   <object class="Citrus">
+   <object class="Fruit">
     <void property="color">
-     <string>green</string>
+     <string>orange</string>
     </void>
     <void property="name">
-     <string>Lime</string>
+     <string>Apricots</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Fruit">
+    <void property="color">
+     <string>adads</string>
+    </void>
+    <void property="name">
+     <string>asdad</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Citrus">
+    <void property="color">
+     <string>asdad</string>
+    </void>
+    <void property="name">
+     <string>asdads</string>
     </void>
     <void property="vitaminC">
-     <int>15</int>
+     <double>15.0</double>
     </void>
    </object>
   </void>

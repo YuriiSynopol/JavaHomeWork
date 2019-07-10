@@ -2,8 +2,7 @@ import java.beans.XMLDecoder;
 import java.beans.XMLEncoder;
 import java.io.*;
 import java.util.ArrayList;
-import java.util.List;
-import java.util.Objects;
+
 
 public class Fruit implements Serializable {
     private String name;
@@ -36,12 +35,20 @@ public class Fruit implements Serializable {
         this.color = color;
     }
 
-    public Fruit input() throws IOException {
-        System.out.println("Enter name of fruit: ");
-        setName(br.readLine());
-        System.out.println("Enter color of fruit: ");
-        setColor(br.readLine().toLowerCase());
-        return new Fruit();
+    public void input() {
+        try {
+            System.out.println("Enter name of fruit: ");
+            setName(br.readLine());
+            System.out.println("Enter color of fruit: ");
+            setColor(br.readLine().toLowerCase());
+            if (getName() == null)
+                throw new NumberFormatException("This field empty or you entered digits, restart program and enter value!");
+
+        } catch (NumberFormatException | IOException e) {
+            e.printStackTrace();
+            System.exit(0);
+
+        }
     }
 
     public void print() {
@@ -54,13 +61,8 @@ public class Fruit implements Serializable {
         return "\nFruit name: " + name + ", Color: " + color;
     }
 
-    @Override
-    public int hashCode() {
-        return Objects.hash(name, color);
-    }
-
     //Serialized
-    public void input(List<Fruit> fruits) {
+    public static void output(ArrayList<Fruit> fruits) {
         try {
             FileOutputStream fos = new FileOutputStream("fruits.xml");
             XMLEncoder encoder = new XMLEncoder(fos);
@@ -73,18 +75,18 @@ public class Fruit implements Serializable {
     }
 
     //De - Serialized
-    public void output() {
+    public static void inputXml() {
         try (XMLDecoder xmlDecoder = new XMLDecoder(new FileInputStream("fruits.xml"))) {
-            List<Fruit> fruits = (List<Fruit>) xmlDecoder.readObject();
+            ArrayList<Fruit> fruits = (ArrayList<Fruit>) xmlDecoder.readObject();
             System.out.printf(fruits.toString());
         } catch (Exception ex) {
             System.out.println(ex.getMessage());
         }
     }
 
-    public static List<Fruit> getByColor(List<Fruit> fruits, String color) {
+    public static ArrayList<Fruit> getByColor(ArrayList<Fruit> fruits, String color) {
 
-        List<Fruit> newFruits = new ArrayList<>();
+        ArrayList<Fruit> newFruits = new ArrayList<>();
 
         for (Fruit fruit : fruits) {
             if (fruit.getColor().equals(color.toLowerCase())) {

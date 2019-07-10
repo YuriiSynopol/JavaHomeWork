@@ -1,36 +1,45 @@
 import java.io.IOException;
 import java.io.Serializable;
-import java.util.Objects;
 
 public class Citrus extends Fruit implements Serializable {
 
-    private int vitaminC;
+    private double vitaminC;
 
     public Citrus() {
     }
 
-    public Citrus(String name, String color, int vitaminC) {
+    public Citrus(String name, String color, double vitaminC) {
         super(name, color);
         this.vitaminC = vitaminC;
     }
 
-    public int getVitaminC() {
+    public double getVitaminC() {
 
         return vitaminC;
     }
 
-    public void setVitaminC(int vitaminC) {
+    public void setVitaminC(double vitaminC) {
         this.vitaminC = vitaminC;
     }
 
     @Override
-    public Fruit input() throws IOException {
-        super.input();
-        System.out.println("Enter vitamin C ");
-        setVitaminC(Integer.parseInt(br.readLine()));
-        return new Fruit();
+    public void input() {
 
+        try {
+            super.input();
+            System.out.println("Enter vitamin C in gram ");
+            setVitaminC(Double.parseDouble(br.readLine()));
+            if (vitaminC < 0) {
+                throw new NumberFormatException("\nCitrus can't contain minus value...");
+            }
+
+        } catch (NumberFormatException | IOException e) {
+            e.printStackTrace();
+            System.err.println("Enter only digits, try again...");
+            System.exit(0);
+        }
     }
+
 
     @Override
     public void print() {
@@ -40,11 +49,6 @@ public class Citrus extends Fruit implements Serializable {
     @Override
     public String toString() {
         return "\nCitrus name: " + getName() + ", Color: " + getColor() + ", Vitamin C: " + getVitaminC() + " mg";
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(super.hashCode(), vitaminC);
     }
 
 

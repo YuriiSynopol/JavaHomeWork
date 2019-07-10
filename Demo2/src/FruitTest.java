@@ -7,12 +7,12 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.List;
+
 
 public class FruitTest {
 
     @Test
-    public void inputTest() throws IOException {
+    public void inputTest() {
         //Arrange
         Fruit actualFruit = new Fruit();
         Fruit expectedFruit = new Fruit("Apple", "Green");
@@ -26,72 +26,92 @@ public class FruitTest {
 
     }
 
-    @Test
-    public void printTest() throws IOException {
-        //Arrange
-        Fruit expectedFruit = new Fruit("Apple", "Green");
-
-        //Assert
-
-        Assert.assertTrue(true, expectedFruit.getName());
-        Assert.assertTrue(true, expectedFruit.getColor());
-
-    }
 
     @Test
-    public void serialization_deSerializationTest() {
+    public void serialization() throws IOException {
         //Arrange
         ArrayList<Integer> expectedFruitsList = new ArrayList<>();
-        ArrayList<Integer> actualFruitsList = new ArrayList<>();
+        ArrayList<Integer> actualFruitsList;
         expectedFruitsList.add(1);
 
         //Act
-        try {
-            FileOutputStream fos = new FileOutputStream("test.xml");
-            XMLEncoder encoder = new XMLEncoder(fos);
-            encoder.writeObject(expectedFruitsList);
-            encoder.close();
-            fos.close();
-        } catch (IOException ex) {
-            System.out.println(ex.getMessage());
-        }
 
-        try {
-            XMLDecoder xmlDecoder = new XMLDecoder(new FileInputStream("test.xml"));
-            actualFruitsList = (ArrayList<Integer>) xmlDecoder.readObject();
-        } catch (Exception ex) {
+        FileOutputStream fos = new FileOutputStream("test.xml");
+        XMLEncoder encoder = new XMLEncoder(fos);
+        encoder.writeObject(expectedFruitsList);
+        encoder.close();
+        fos.close();
 
-            System.out.println(ex.getMessage());
-        }
+
+        XMLDecoder xmlDecoder = new XMLDecoder(new FileInputStream("test.xml"));
+        actualFruitsList = (ArrayList<Integer>) xmlDecoder.readObject();
+
+
         //Assert
         Assert.assertEquals(expectedFruitsList, actualFruitsList);
 
     }
 
     @Test
-    public void getByColorTest() {
+    public void getFruitsByColorTest() {
         //Arrange
-        String color = "yellow";
-        List<Fruit> fruits = new ArrayList<>();
-        fruits.add(new Fruit("Pineapple", "yellow"));
+        ArrayList<Fruit> testList = new ArrayList<>();
+        ArrayList<Fruit> actual = new ArrayList<>();
+        ArrayList<Fruit> expected;
+        ArrayList<String> expectedColor = new ArrayList<>();
+        ArrayList<String> actualColor = new ArrayList<>();
 
+        testList.add(new Fruit("apple", "green"));
+        testList.add(new Fruit("pineapple", "yellow"));
+        testList.add(new Fruit("pear", "orange"));
+        testList.add(new Fruit("banan", "yellow"));
+        testList.add(new Fruit("pear", "orange"));
+
+
+        actual.add(new Fruit("pineapple", "yellow"));
+        actual.add(new Fruit("banan", "yellow"));
+        //Act
+        expected = Fruit.getByColor(testList, "yellow");
+
+        for (Fruit f : expected) {
+            expectedColor.add(f.getColor());
+        }
+        for (Fruit f : actual) {
+            actualColor.add(f.getColor());
+        }
         //Assert
-        Assert.assertEquals(fruits, Fruit.getByColor(fruits, color));
+        Assert.assertEquals(expectedColor, (actualColor));
     }
 
     @Test
-    public void sortFruitByName() {
-        //Arrange
-        List<Fruit> fruits = new ArrayList<>();
-        fruits.add(new Fruit("Apple", "red"));
-        fruits.add(new Fruit("Pineapple", "yellow"));
-        fruits.add(new Fruit("Mango", "yellow"));
-        fruits.add(new Fruit("Apple", "green"));
-        fruits.add(new Fruit("Apricots", "orange"));
+    public void sortFruitByNameTest() {
+        ArrayList<String> expectedName = new ArrayList<>();
+        ArrayList<String> actualName = new ArrayList<>();
+
+        ArrayList<Fruit> fruits = new ArrayList<>();
+
+        fruits.add(new Fruit("apple", "green"));
+        fruits.add(new Fruit("mango", "red"));
+        fruits.add(new Fruit("banana", "yellow"));
+
+
+        ArrayList<Fruit> expected = new ArrayList<>();
+        expected.add(new Fruit("apple", "green"));
+        expected.add(new Fruit("banana", "yellow"));
+        expected.add(new Fruit("mango", "red"));
+
+
         //Actual
-        List<Fruit> actual = SortFruit.sortFruitByName(fruits);
+        ArrayList<Fruit> actual = SortFruit.sortFruitByName(expected);
+
+        for (Fruit f : expected) {
+            expectedName.add(f.getName());
+        }
+        for (Fruit f : actual) {
+            actualName.add(f.getName());
+        }
         //Assert
-        Assert.assertEquals(fruits, actual);
+        Assert.assertEquals(expected, actual);
     }
 
 }
